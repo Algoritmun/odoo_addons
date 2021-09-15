@@ -23,7 +23,7 @@
     "demo": [
         'demo/talend_jobs.xml',
     ],
-    "auto_install": True,
+    "auto_install": False,
     "installable": True,
     "application": False,
 }

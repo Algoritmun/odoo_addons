@@ -29,7 +29,7 @@ Suggestions & Feedback to: Corentin Pouhet-Brunerie
     "sequence": 20,
     "data": [],
     "qweb": [],
-    "auto_install": True,
+    "auto_install": False,
     "installable": True,
     "application": False,
     'post_init_hook': '_update_models',
