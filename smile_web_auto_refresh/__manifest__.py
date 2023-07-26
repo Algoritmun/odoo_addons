@@ -20,7 +20,7 @@
         'views/webclient_templates.xml',
     ],
     'qweb': [],
-    'auto_install': True,
-    'installable': False,
+    'auto_install': False,
+    'installable': True,
     'application': False,
 }
